@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/danlaysma/CLionProjects/idz7_sem4/build",
+  "command": "/usr/bin/clang++   -g -o CMakeFiles/idz7_sem4.dir/cpp/BinaryTreeRealization.cpp.o -c /home/danlaysma/CLionProjects/idz7_sem4/cpp/BinaryTreeRealization.cpp",
+  "file": "/home/danlaysma/CLionProjects/idz7_sem4/cpp/BinaryTreeRealization.cpp",
+  "output": "CMakeFiles/idz7_sem4.dir/cpp/BinaryTreeRealization.cpp.o"
+}
+]

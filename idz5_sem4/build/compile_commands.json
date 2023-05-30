@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/danlaysma/CLionProjects/idz5_sem4/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/idz5_sem4.dir/cpp/HashTableRealization.cpp.o -c /home/danlaysma/CLionProjects/idz5_sem4/cpp/HashTableRealization.cpp",
+  "file": "/home/danlaysma/CLionProjects/idz5_sem4/cpp/HashTableRealization.cpp",
+  "output": "CMakeFiles/idz5_sem4.dir/cpp/HashTableRealization.cpp.o"
+},
+{
+  "directory": "/home/danlaysma/CLionProjects/idz5_sem4/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/idz5_sem4.dir/cpp/IteratorRealization.cpp.o -c /home/danlaysma/CLionProjects/idz5_sem4/cpp/IteratorRealization.cpp",
+  "file": "/home/danlaysma/CLionProjects/idz5_sem4/cpp/IteratorRealization.cpp",
+  "output": "CMakeFiles/idz5_sem4.dir/cpp/IteratorRealization.cpp.o"
+},
+{
+  "directory": "/home/danlaysma/CLionProjects/idz5_sem4/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/idz5_sem4.dir/cpp/LinkedHashTableRealization.cpp.o -c /home/danlaysma/CLionProjects/idz5_sem4/cpp/LinkedHashTableRealization.cpp",
+  "file": "/home/danlaysma/CLionProjects/idz5_sem4/cpp/LinkedHashTableRealization.cpp",
+  "output": "CMakeFiles/idz5_sem4.dir/cpp/LinkedHashTableRealization.cpp.o"
+},
+{
+  "directory": "/home/danlaysma/CLionProjects/idz5_sem4/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/idz5_sem4.dir/cpp/LinkedIteratorRealization.cpp.o -c /home/danlaysma/CLionProjects/idz5_sem4/cpp/LinkedIteratorRealization.cpp",
+  "file": "/home/danlaysma/CLionProjects/idz5_sem4/cpp/LinkedIteratorRealization.cpp",
+  "output": "CMakeFiles/idz5_sem4.dir/cpp/LinkedIteratorRealization.cpp.o"
+}
+]

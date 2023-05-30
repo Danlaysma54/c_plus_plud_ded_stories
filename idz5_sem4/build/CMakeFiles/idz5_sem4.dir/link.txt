@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/idz5_sem4.dir/cpp/HashTableRealization.cpp.o CMakeFiles/idz5_sem4.dir/cpp/IteratorRealization.cpp.o CMakeFiles/idz5_sem4.dir/cpp/LinkedHashTableRealization.cpp.o CMakeFiles/idz5_sem4.dir/cpp/LinkedIteratorRealization.cpp.o -o idz5_sem4 

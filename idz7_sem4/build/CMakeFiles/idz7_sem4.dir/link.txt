@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g CMakeFiles/idz7_sem4.dir/cpp/BinaryTreeRealization.cpp.o -o idz7_sem4 
