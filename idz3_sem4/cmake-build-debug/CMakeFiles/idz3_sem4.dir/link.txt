@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/idz3_sem4.dir/main.cpp.o -o idz3_sem4 

@@ -1,0 +1,3 @@
+/home/danlaysma/CLionProjects/idz2_sem4/cmake-build-debug/CMakeFiles/idz2_sem4.dir
+/home/danlaysma/CLionProjects/idz2_sem4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/danlaysma/CLionProjects/idz2_sem4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

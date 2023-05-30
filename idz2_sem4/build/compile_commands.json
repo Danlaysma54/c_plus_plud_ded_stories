@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/danlaysma/CLionProjects/idz2_sem4/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -o CMakeFiles/idz2_sem4.dir/cpp/main.cpp.o -c /home/danlaysma/CLionProjects/idz2_sem4/cpp/main.cpp",
+  "file": "/home/danlaysma/CLionProjects/idz2_sem4/cpp/main.cpp",
+  "output": "CMakeFiles/idz2_sem4.dir/cpp/main.cpp.o"
+},
+{
+  "directory": "/home/danlaysma/CLionProjects/idz2_sem4/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -o CMakeFiles/idz2_sem4.dir/cpp/DynamicArrayInt.cpp.o -c /home/danlaysma/CLionProjects/idz2_sem4/cpp/DynamicArrayInt.cpp",
+  "file": "/home/danlaysma/CLionProjects/idz2_sem4/cpp/DynamicArrayInt.cpp",
+  "output": "CMakeFiles/idz2_sem4.dir/cpp/DynamicArrayInt.cpp.o"
+}
+]
